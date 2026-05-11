@@ -2,7 +2,7 @@
 
 **Crystal ball? Not quite. But close.** This project explores two major markets the mighty **Nasdaq** and the bustling **Vietnam HOSE** to predict stock prices, spot buy/sell signals, and build an optimized portfolio. From Bidirectional LSTMs to Markowitz mean-variance optimization, it’s a comprehensive deep learning and quantitative finance pipeline.
 
-## 🧐 Project Overview**
+## 🧐 Project Overview
 
 We tackle a series of tasks that build from individual price prediction to full portfolio management:
 

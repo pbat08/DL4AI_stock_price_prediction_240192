@@ -66,7 +66,7 @@ Open the Jupyter notebooks and execute the cells in order. The notebooks are des
 ## 🛠 Main Dependencies
 
 * **Deep Learning**: `tensorflow` (LSTM/Bi-LSTM architectures)
-* **Data Acquisition**: `yfinance`, `vnstock`
+* **Data Acquisition**: `nasdaq`, `vnstock`
 * **Data Processing**: `pandas`, `numpy`, `scikit-learn`
 * **Optimization & Math**: `scipy` (SLSQP solver for Markowitz)
 * **Visualization**: `matplotlib`, `seaborn`

@@ -10,4 +10,4 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 COPY . .
 
 EXPOSE 5000
-CMD ["python", "api_server.py"]
+CMD ["python", "[task5.1]_api_server_.py"]

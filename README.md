@@ -43,6 +43,7 @@ from vnstock import *
 # register_user(api_key='YOUR_KEY_HERE')
 4. Run the Notebooks
 Open the Jupyter notebooks and execute the cells in order. The notebooks are designed to handle data fetching, preprocessing, training, and visualization sequentially.
+---
 
 🛠 Main Dependencies
 Deep Learning: tensorflow (LSTM/Bi-LSTM architectures)

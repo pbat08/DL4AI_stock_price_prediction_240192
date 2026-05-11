@@ -1,0 +1,21 @@
+# ===== Core Deep Learning & Data Processing =====
+tensorflow>=2.13            # LSTM models (all tasks)
+numpy                       # array operations
+pandas                      # data manipulation
+matplotlib                  # plotting
+seaborn                     # optional nicer plots
+scikit-learn                # preprocessing, scaling, metrics
+scipy                       # for optimisation (portfolio)
+
+# ===== Task 5.1 – REST API =====
+flask                       # API server
+gunicorn                    # production WSGI server (optional)
+
+# ===== Task 5.2 – Streamlit SaaS =====
+streamlit                   # web interface
+requests                    # calling the API from Streamlit
+
+# ===== Task 5.3 – Automation simulation =====
+# sqlite3 is built into Python, no need to list.
+# apache-airflow, dbt-core, pymongo, psycopg2-binary are not required
+# to run the simulation – they are mentioned in the report.
